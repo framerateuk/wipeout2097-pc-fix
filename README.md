@@ -1,4 +1,4 @@
-# Wipeout 2097 (PC, 1997): disc-free, widescreen, pad-friendly
+# Wipeout 2097 (PC, 1997) on modern PCs: widescreen, pad-friendly
 
 ## Why this exists
 
@@ -13,7 +13,7 @@ PlayStation release, and one worth keeping alive.
 ## What this does
 
 Turns **your own** Wipeout 2097 PC CD into a folder that runs on Windows 10/11 and on the Steam Deck
-(Proton), with no disc, no installer and no registry entries:
+(Proton), with no installer and no registry entries:
 
 - **Widescreen**: 854x480 (16:9) and 768x480 (16:10, the Steam Deck) in the game's settings dialog.
   3D keeps its shape and shows more at the sides; HUD and menus stay 4:3 in the middle.

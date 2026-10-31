@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a ready-to-run, disc-free Wipeout 2097 folder from your own CD image.
+"""Build a ready-to-run Wipeout 2097 folder for modern PCs from your own CD image.
 
 Usage:
   python3 build.py DISC.cue|DISC.ccd --dgvoodoo DGVOODOO.zip --ogg-winmm OGG-WINMM.zip [--out DIR]
