@@ -1,5 +1,17 @@
 # Wipeout 2097 (PC, 1997): disc-free, widescreen, pad-friendly
 
+## Why this exists
+
+When Wipeout 2097 came out on PC in 1997 it was a real highlight. Since then it has become harder
+and harder to get working on modern PCs: the installer, the CD check, the DirectX 3 renderer and
+the CD-audio soundtrack all trip over Windows 10/11 and modern hardware.
+
+It's also not just a port of the PlayStation game. The PC version has its own soundtrack, played
+from the CD, and none of the Red Bull branding. That makes it a different experience from the
+PlayStation release, and one worth keeping alive.
+
+## What this does
+
 Turns **your own** Wipeout 2097 PC CD into a folder that runs on Windows 10/11 and on the Steam Deck
 (Proton), with no disc, no installer and no registry entries:
 
