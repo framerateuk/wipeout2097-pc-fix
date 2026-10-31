@@ -1,0 +1,18 @@
+# Never commit anything from the game or third-party downloads
+Wipeout2097/
+*.bin
+*.img
+*.iso
+*.cue
+*.ccd
+*.sub
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.zip
+*.ogg
+*.wav
+CONFIG.DAT
+SAVEGAME.BIN
+__pycache__/
